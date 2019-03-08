@@ -1,5 +1,5 @@
 # Linux
-This repositories is to help setup linux os. I am working scripts for help seetup a new install of linux.
+This repositories is to help setup linux os. I am working scripts for help setup a new install of linux.
 ***************************
  Manjaro Deepin
  **************************
