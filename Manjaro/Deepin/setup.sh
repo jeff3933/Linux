@@ -1,3 +1,4 @@
+# This setup is for manjaro deepin version. Mostly using the pacman commands in terminal.
 #!/bin/bash
 sudo mhwd-kernel -i linux420              # update the kernel to linux 4.20
 sudo pacman -Scc --noconfirm              # Run remove cache and remove repositories
